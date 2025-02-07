@@ -7,17 +7,19 @@ This repository contains multiple **Tkinter-based GUI projects** built using **P
 ---
 
 ## 📂 Project Structure  
-📦 python-gui-projects
-│-- 📂 Project_1/
-│ ├── app.py
-│ ├── README.md
-│-- 📂 Project_2/
-│ ├── app.py
-│ ├── README.md
-│-- 📂 Project_3/
-│ ├── app.py
-│ ├── README.md
-│-- README.md (General repository overview)
+```
+📦 python-gui-projects  
+│-- 📂 Project_1/  
+│   ├── app.py  
+│   ├── README.md  
+│-- 📂 Project_2/  
+│   ├── app.py  
+│   ├── README.md  
+│-- 📂 Project_3/  
+│   ├── app.py  
+│   ├── README.md  
+│-- README.md  (General repository overview)  
+```
 
 Each project has its **own directory** with a **README.md** explaining its functionality.
 
